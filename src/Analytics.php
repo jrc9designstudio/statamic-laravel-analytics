@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Analytics;
+namespace JRC9DS\Analytics;
 
 use Carbon\Carbon;
 use Google_Service_Analytics;
@@ -11,14 +11,14 @@ class Analytics
 {
     use Macroable;
 
-    /** @var \Spatie\Analytics\AnalyticsClient */
+    /** @var \JRC9DS\Analytics\AnalyticsClient */
     protected $client;
 
     /** @var string */
     protected $viewId;
 
     /**
-     * @param \Spatie\Analytics\AnalyticsClient $client
+     * @param \JRC9DS\Analytics\AnalyticsClient $client
      * @param string                            $viewId
      */
     public function __construct(AnalyticsClient $client, string $viewId)

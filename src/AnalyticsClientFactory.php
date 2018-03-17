@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Analytics;
+namespace JRC9DS\Analytics;
 
 use Google_Client;
 use Google_Service_Analytics;

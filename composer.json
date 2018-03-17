@@ -1,5 +1,5 @@
 {
-  "name": "spatie/laravel-analytics",
+  "name": "jrc9ds/statamic-laravel-analytics",
   "description": "A Laravel 5 package to retrieve Google Analytics data.",
   "keywords": [
     "spatie",
@@ -9,7 +9,7 @@
     "reports",
     "laravel"
   ],
-  "homepage": "https://github.com/spatie/laravel-analytics",
+  "homepage": "https://github.com/jrc9ds/statamic-laravel-analytics",
   "license": "MIT",
   "authors": [
     {
@@ -35,12 +35,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Spatie\\Analytics\\": "src"
+      "JRC9DS\\Analytics\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Spatie\\Analytics\\Tests\\": "tests"
+      "JRC9DS\\Analytics\\Tests\\": "tests"
     }
   }
 }

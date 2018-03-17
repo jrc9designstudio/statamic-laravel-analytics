@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Analytics\Exceptions;
+namespace JRC9DS\Analytics\Exceptions;
 
 use DateTime;
 use Exception;
