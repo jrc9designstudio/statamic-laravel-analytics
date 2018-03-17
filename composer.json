@@ -1,5 +1,5 @@
 {
-  "name": "jrc9ds/statamic-laravel-analytics",
+  "name": "jrc9designstudio/statamic-laravel-analytics",
   "description": "A Laravel 5 package to retrieve Google Analytics data.",
   "keywords": [
     "spatie",
@@ -7,11 +7,18 @@
     "analytics",
     "retrieve",
     "reports",
-    "laravel"
+    "laravel",
+    "statamic"
   ],
-  "homepage": "https://github.com/jrc9ds/statamic-laravel-analytics",
+  "homepage": "https://github.com/jrc9designstudio/statamic-laravel-analytics",
   "license": "MIT",
   "authors": [
+    {
+      "name": "Jonathan Cohlmeyer",
+      "email": "jcohlmeyer@jrc9.ca",
+      "homepage": "https://jrc9.ca",
+      "role": "Developer"
+    },
     {
       "name": "Freek Van der Herten",
       "email": "freek@spatie.be",
